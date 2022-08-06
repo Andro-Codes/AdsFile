@@ -1,0 +1,21 @@
+{   
+   "AdsType": "Admob",
+   "Count": "4",
+   "AdMob_Id": "ca-app-pub-7836518268776225~6568596322",
+   "AdMob_OpenAdId": "ca-app-pub-7836518268776225/9144720405",
+   "AdMob_BannerAdId": "ca-app-pub-7836518268776225/7958533766",
+   "AdMob_InterstitialAdId": "ca-app-pub-7836518268776225/7766962076",
+   "AdMob_NativeAdId": "ca-app-pub-7836518268776225/2695981685",
+   "AdMob_RewardedAdId": "/21775744923/example/rewarded_interstitial",
+   "AdManager_OpenAdId": "/6499/example/app-open",
+   "AdManager_BannerAdId": "/6499/example/banner",
+   "AdManager_InterstitialAdId": "/6499/example/interstitial",
+   "AdManager_NativeAdId": "/6499/example/native",
+   "AdManager_RewardedAdId": "/21775744923/example/rewarded_interstitial",
+   "FB_BannerAdId": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+   "FB_InterstitialAdId": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+   "FB_NativeAdId": "VID_HD_9_16_39S_APP_INSTALL#YOUR_PLACEMENT_ID", 
+   "FB_NativeBannerAdId": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+   "FB_RewardedAdId": "VID_HD_9_16_39S_APP_INSTALL#YOUR_PLACEMENT_ID",
+   "ChackUpdate": "false"
+}
