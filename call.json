@@ -12,10 +12,10 @@
    "AdManager_InterstitialAdId": "/6499/example/interstitial",
    "AdManager_NativeAdId": "/6499/example/native",
    "AdManager_RewardedAdId": "/21775744923/example/rewarded_interstitial",
-   "FB_BannerAdId": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-   "FB_InterstitialAdId": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-   "FB_NativeAdId": "VID_HD_9_16_39S_APP_INSTALL#YOUR_PLACEMENT_ID", 
-   "FB_NativeBannerAdId": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-   "FB_RewardedAdId": "VID_HD_9_16_39S_APP_INSTALL#YOUR_PLACEMENT_ID",
+   "FB_BannerAdId": "",
+   "FB_InterstitialAdId": "",
+   "FB_NativeAdId": "", 
+   "FB_NativeBannerAdId": "",
+   "FB_RewardedAdId": "",
    "ChackUpdate": "false"
 }
