@@ -12,10 +12,10 @@
    "AdManager_InterstitialAdId": "/6499/example/interstitial",
    "AdManager_NativeAdId": "/6499/example/native",
    "AdManager_RewardedAdId": "/21775744923/example/rewarded_interstitial",
-   "FB_BannerAdId": "",
-   "FB_InterstitialAdId": "",
-   "FB_NativeAdId": "", 
-   "FB_NativeBannerAdId": "",
+   "FB_BannerAdId": "577570917438494_577600980768821",
+   "FB_InterstitialAdId": "577570917438494_577599474102305",
+   "FB_NativeAdId": "577570917438494_577599987435587", 
+   "FB_NativeBannerAdId": "577570917438494_577600550768864",
    "FB_RewardedAdId": "",
    "ChackUpdate": "false"
 }
