@@ -1,9 +1,9 @@
 {   
    "AdsType": "Facebook",
-   "Count_inte": "2",
-   "Count_banner": "1",
-   "Count_native": "2",
-   "Count_native_banner": "1",
+   "Count_inte": "0",
+   "Count_banner": "0",
+   "Count_native": "0",
+   "Count_native_banner": "0",
    "AdMob_Id": "ca-app-pub-3940256099942544~3347511713",
    "AdMob_OpenAdId": "ca-app-pub-3940256099942544/3419835294",
    "AdMob_BannerAdId": "ca-app-pub-3940256099942544/6300978111",
