@@ -34,7 +34,7 @@
             "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
         ],
         "double_ad_status": false,
-        "ads_status": true,
+        "ads_status": false,
         "splash_ads_status": false,
         "is_facebook_first": true,
         "ads_count": 5,
