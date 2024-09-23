@@ -19,22 +19,22 @@
             "/6499/example/app-open"
         ],
         "fb_banner": [
-            "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
+            "1637217890189605_1637226456855415"
         ],
         "fb_int": [
-            "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-            "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
+            "1637217890189605_1637226603522067",
+            "1637217890189605_1637226603522067"
         ],
         "fb_native": [
-            "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-            "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
+            "1637217890189605_1637226856855375",
+            "1637217890189605_1637226856855375"
         ],
         "fb_native_banner": [
-            "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-            "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
+            "1637217890189605_1637226996855361",
+            "1637217890189605_1637226996855361"
         ],
         "double_ad_status": false,
-        "ads_status": false,
+        "ads_status": true,
         "splash_ads_status": false,
         "is_facebook_first": true,
         "ads_count": 5,
