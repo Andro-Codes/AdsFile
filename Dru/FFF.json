@@ -46,6 +46,8 @@
         ],
         "force_update": false,
         "force_update_url": "",
+        "more_ad": [],
+        "int_more_ad": [],
         "privacy_policy": "https://google.com/"
     }
 }
