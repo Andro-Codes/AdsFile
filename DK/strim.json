@@ -1,0 +1,455 @@
+{
+    "models": [
+        {
+            "username": "Sita",
+            "avatarUrl": "https://stockomarket.com/apps/live-streaming/ad-img/1.jpg",
+            "previewUrlThumbSmall": "https://stockomarket.com/apps/live-streaming/images/stream-image (78).png",
+            "previewUrlThumbBig": "https://stockomarket.com/apps/live-streaming/images/stream-image (78).png",
+            "isLive": true,
+            "viewersCount": 320,
+            "groupShowType": "",
+            "hlsPlaylist": "https://stockomarket.com/apps/live-streaming/videos/stream-video (78).mp4"
+        },
+        {
+            "username": "Mirza ",
+            "avatarUrl": "https://stockomarket.com/apps/live-streaming/ad-img/1.jpg",
+            "previewUrlThumbSmall": "https://stockomarket.com/apps/live-streaming/images/stream-image (89).png",
+            "previewUrlThumbBig": "https://stockomarket.com/apps/live-streaming/images/stream-image (89).png",
+            "isLive": true,
+            "viewersCount": 639,
+            "groupShowType": "",
+            "hlsPlaylist": "https://stockomarket.com/apps/live-streaming/videos/stream-video (89).mp4"
+        },
+        {
+            "username": "Rahi",
+            "avatarUrl": "https://stockomarket.com/apps/live-streaming/ad-img/1.jpg",
+            "previewUrlThumbSmall": "https://stockomarket.com/apps/live-streaming/images/stream-image (87).png",
+            "previewUrlThumbBig": "https://stockomarket.com/apps/live-streaming/images/stream-image (87).png",
+            "isLive": true,
+            "viewersCount": 341,
+            "groupShowType": "",
+            "hlsPlaylist": "https://stockomarket.com/apps/live-streaming/videos/stream-video (87).mp4"
+        },
+        {
+            "username": "Uma ",
+            "avatarUrl": "https://stockomarket.com/apps/live-streaming/ad-img/1.jpg",
+            "previewUrlThumbSmall": "https://stockomarket.com/apps/live-streaming/images/stream-image (88).png",
+            "previewUrlThumbBig": "https://stockomarket.com/apps/live-streaming/images/stream-image (88).png",
+            "isLive": true,
+            "viewersCount": 435,
+            "groupShowType": "",
+            "hlsPlaylist": "https://stockomarket.com/apps/live-streaming/videos/stream-video (88).mp4"
+        },
+        {
+            "username": "Alani ",
+            "avatarUrl": "https://stockomarket.com/apps/live-streaming/ad-img/1.jpg",
+            "previewUrlThumbSmall": "https://stockomarket.com/apps/live-streaming/images/stream-image (79).png",
+            "previewUrlThumbBig": "https://stockomarket.com/apps/live-streaming/images/stream-image (79).png",
+            "isLive": true,
+            "viewersCount": 885,
+            "groupShowType": "",
+            "hlsPlaylist": "https://stockomarket.com/apps/live-streaming/videos/stream-video (79).mp4"
+        },
+        {
+            "username": "Lavanya",
+            "avatarUrl": "https://stockomarket.com/apps/live-streaming/ad-img/1.jpg",
+            "previewUrlThumbSmall": "https://stockomarket.com/apps/live-streaming/images/stream-image (100).png",
+            "previewUrlThumbBig": "https://stockomarket.com/apps/live-streaming/images/stream-image (100).png",
+            "isLive": true,
+            "viewersCount": 499,
+            "groupShowType": "",
+            "hlsPlaylist": "https://stockomarket.com/apps/live-streaming/videos/stream-video (100).mp4"
+        },
+        {
+            "username": "Amara ",
+            "avatarUrl": "https://stockomarket.com/apps/live-streaming/ad-img/1.jpg",
+            "previewUrlThumbSmall": "https://stockomarket.com/apps/live-streaming/images/stream-image (73).png",
+            "previewUrlThumbBig": "https://stockomarket.com/apps/live-streaming/images/stream-image (73).png",
+            "isLive": true,
+            "viewersCount": 897,
+            "groupShowType": "",
+            "hlsPlaylist": "https://stockomarket.com/apps/live-streaming/videos/stream-video (73).mp4"
+        },
+        {
+            "username": "Suhasini",
+            "avatarUrl": "https://stockomarket.com/apps/live-streaming/ad-img/1.jpg",
+            "previewUrlThumbSmall": "https://stockomarket.com/apps/live-streaming/images/stream-image (83).png",
+            "previewUrlThumbBig": "https://stockomarket.com/apps/live-streaming/images/stream-image (83).png",
+            "isLive": true,
+            "viewersCount": 548,
+            "groupShowType": "",
+            "hlsPlaylist": "https://stockomarket.com/apps/live-streaming/videos/stream-video (83).mp4"
+        },
+        {
+            "username": "Nisha ",
+            "avatarUrl": "https://stockomarket.com/apps/live-streaming/ad-img/1.jpg",
+            "previewUrlThumbSmall": "https://stockomarket.com/apps/live-streaming/images/stream-image (113).png",
+            "previewUrlThumbBig": "https://stockomarket.com/apps/live-streaming/images/stream-image (113).png",
+            "isLive": true,
+            "viewersCount": 116,
+            "groupShowType": "",
+            "hlsPlaylist": "https://stockomarket.com/apps/live-streaming/videos/stream-video (113).mp4"
+        },
+        {
+            "username": "Saumya",
+            "avatarUrl": "https://stockomarket.com/apps/live-streaming/ad-img/1.jpg",
+            "previewUrlThumbSmall": "https://stockomarket.com/apps/live-streaming/images/stream-image (98).png",
+            "previewUrlThumbBig": "https://stockomarket.com/apps/live-streaming/images/stream-image (98).png",
+            "isLive": true,
+            "viewersCount": 579,
+            "groupShowType": "",
+            "hlsPlaylist": "https://stockomarket.com/apps/live-streaming/videos/stream-video (98).mp4"
+        },
+        {
+            "username": "Sahara",
+            "avatarUrl": "https://stockomarket.com/apps/live-streaming/ad-img/1.jpg",
+            "previewUrlThumbSmall": "https://stockomarket.com/apps/live-streaming/images/stream-image (96).png",
+            "previewUrlThumbBig": "https://stockomarket.com/apps/live-streaming/images/stream-image (96).png",
+            "isLive": true,
+            "viewersCount": 924,
+            "groupShowType": "",
+            "hlsPlaylist": "https://stockomarket.com/apps/live-streaming/videos/stream-video (96).mp4"
+        },
+        {
+            "username": "Sahara",
+            "avatarUrl": "https://stockomarket.com/apps/live-streaming/ad-img/1.jpg",
+            "previewUrlThumbSmall": "https://stockomarket.com/apps/live-streaming/images/stream-image (102).png",
+            "previewUrlThumbBig": "https://stockomarket.com/apps/live-streaming/images/stream-image (102).png",
+            "isLive": true,
+            "viewersCount": 520,
+            "groupShowType": "",
+            "hlsPlaylist": "https://stockomarket.com/apps/live-streaming/videos/stream-video (102).mp4"
+        },
+        {
+            "username": "Navi",
+            "avatarUrl": "https://stockomarket.com/apps/live-streaming/ad-img/1.jpg",
+            "previewUrlThumbSmall": "https://stockomarket.com/apps/live-streaming/images/stream-image (81).png",
+            "previewUrlThumbBig": "https://stockomarket.com/apps/live-streaming/images/stream-image (81).png",
+            "isLive": true,
+            "viewersCount": 539,
+            "groupShowType": "",
+            "hlsPlaylist": "https://stockomarket.com/apps/live-streaming/videos/stream-video (81).mp4"
+        },
+        {
+            "username": "Aniya ",
+            "avatarUrl": "https://stockomarket.com/apps/live-streaming/ad-img/1.jpg",
+            "previewUrlThumbSmall": "https://stockomarket.com/apps/live-streaming/images/stream-image (112).png",
+            "previewUrlThumbBig": "https://stockomarket.com/apps/live-streaming/images/stream-image (112).png",
+            "isLive": true,
+            "viewersCount": 304,
+            "groupShowType": "",
+            "hlsPlaylist": "https://stockomarket.com/apps/live-streaming/videos/stream-video (112).mp4"
+        },
+        {
+            "username": "Aashvi",
+            "avatarUrl": "https://stockomarket.com/apps/live-streaming/ad-img/1.jpg",
+            "previewUrlThumbSmall": "https://stockomarket.com/apps/live-streaming/images/stream-image (101).png",
+            "previewUrlThumbBig": "https://stockomarket.com/apps/live-streaming/images/stream-image (101).png",
+            "isLive": true,
+            "viewersCount": 760,
+            "groupShowType": "",
+            "hlsPlaylist": "https://stockomarket.com/apps/live-streaming/videos/stream-video (101).mp4"
+        },
+        {
+            "username": "Kareena",
+            "avatarUrl": "https://stockomarket.com/apps/live-streaming/ad-img/1.jpg",
+            "previewUrlThumbSmall": "https://stockomarket.com/apps/live-streaming/images/stream-image (77).png",
+            "previewUrlThumbBig": "https://stockomarket.com/apps/live-streaming/images/stream-image (77).png",
+            "isLive": true,
+            "viewersCount": 369,
+            "groupShowType": "",
+            "hlsPlaylist": "https://stockomarket.com/apps/live-streaming/videos/stream-video (77).mp4"
+        },
+        {
+            "username": "Nidhi ",
+            "avatarUrl": "https://stockomarket.com/apps/live-streaming/ad-img/1.jpg",
+            "previewUrlThumbSmall": "https://stockomarket.com/apps/live-streaming/images/stream-image (106).png",
+            "previewUrlThumbBig": "https://stockomarket.com/apps/live-streaming/images/stream-image (106).png",
+            "isLive": true,
+            "viewersCount": 517,
+            "groupShowType": "",
+            "hlsPlaylist": "https://stockomarket.com/apps/live-streaming/videos/stream-video (106).mp4"
+        },
+        {
+            "username": "Mila",
+            "avatarUrl": "https://stockomarket.com/apps/live-streaming/ad-img/1.jpg",
+            "previewUrlThumbSmall": "https://stockomarket.com/apps/live-streaming/images/stream-image (110).png",
+            "previewUrlThumbBig": "https://stockomarket.com/apps/live-streaming/images/stream-image (110).png",
+            "isLive": true,
+            "viewersCount": 422,
+            "groupShowType": "",
+            "hlsPlaylist": "https://stockomarket.com/apps/live-streaming/videos/stream-video (110).mp4"
+        },
+        {
+            "username": "Zoya",
+            "avatarUrl": "https://stockomarket.com/apps/live-streaming/ad-img/1.jpg",
+            "previewUrlThumbSmall": "https://stockomarket.com/apps/live-streaming/images/stream-image (72).png",
+            "previewUrlThumbBig": "https://stockomarket.com/apps/live-streaming/images/stream-image (72).png",
+            "isLive": true,
+            "viewersCount": 503,
+            "groupShowType": "",
+            "hlsPlaylist": "https://stockomarket.com/apps/live-streaming/videos/stream-video (72).mp4"
+        },
+        {
+            "username": "Saanvi",
+            "avatarUrl": "https://stockomarket.com/apps/live-streaming/ad-img/1.jpg",
+            "previewUrlThumbSmall": "https://stockomarket.com/apps/live-streaming/images/stream-image (90).png",
+            "previewUrlThumbBig": "https://stockomarket.com/apps/live-streaming/images/stream-image (90).png",
+            "isLive": true,
+            "viewersCount": 286,
+            "groupShowType": "",
+            "hlsPlaylist": "https://stockomarket.com/apps/live-streaming/videos/stream-video (90).mp4"
+        },
+        {
+            "username": "Ranchi",
+            "avatarUrl": "https://stockomarket.com/apps/live-streaming/ad-img/1.jpg",
+            "previewUrlThumbSmall": "https://stockomarket.com/apps/live-streaming/images/stream-image (92).png",
+            "previewUrlThumbBig": "https://stockomarket.com/apps/live-streaming/images/stream-image (92).png",
+            "isLive": true,
+            "viewersCount": 951,
+            "groupShowType": "",
+            "hlsPlaylist": "https://stockomarket.com/apps/live-streaming/videos/stream-video (92).mp4"
+        },
+        {
+            "username": "Divya ",
+            "avatarUrl": "https://stockomarket.com/apps/live-streaming/ad-img/1.jpg",
+            "previewUrlThumbSmall": "https://stockomarket.com/apps/live-streaming/images/stream-image (82).png",
+            "previewUrlThumbBig": "https://stockomarket.com/apps/live-streaming/images/stream-image (82).png",
+            "isLive": true,
+            "viewersCount": 220,
+            "groupShowType": "",
+            "hlsPlaylist": "https://stockomarket.com/apps/live-streaming/videos/stream-video (82).mp4"
+        },
+        {
+            "username": "Mirza ",
+            "avatarUrl": "https://stockomarket.com/apps/live-streaming/ad-img/1.jpg",
+            "previewUrlThumbSmall": "https://stockomarket.com/apps/live-streaming/images/stream-image (86).png",
+            "previewUrlThumbBig": "https://stockomarket.com/apps/live-streaming/images/stream-image (86).png",
+            "isLive": true,
+            "viewersCount": 253,
+            "groupShowType": "",
+            "hlsPlaylist": "https://stockomarket.com/apps/live-streaming/videos/stream-video (86).mp4"
+        },
+        {
+            "username": "Saanvi",
+            "avatarUrl": "https://stockomarket.com/apps/live-streaming/ad-img/1.jpg",
+            "previewUrlThumbSmall": "https://stockomarket.com/apps/live-streaming/images/stream-image (71).png",
+            "previewUrlThumbBig": "https://stockomarket.com/apps/live-streaming/images/stream-image (71).png",
+            "isLive": true,
+            "viewersCount": 144,
+            "groupShowType": "",
+            "hlsPlaylist": "https://stockomarket.com/apps/live-streaming/videos/stream-video (71).mp4"
+        },
+        {
+            "username": "Kavya ",
+            "avatarUrl": "https://stockomarket.com/apps/live-streaming/ad-img/1.jpg",
+            "previewUrlThumbSmall": "https://stockomarket.com/apps/live-streaming/images/stream-image (85).png",
+            "previewUrlThumbBig": "https://stockomarket.com/apps/live-streaming/images/stream-image (85).png",
+            "isLive": true,
+            "viewersCount": 391,
+            "groupShowType": "",
+            "hlsPlaylist": "https://stockomarket.com/apps/live-streaming/videos/stream-video (85).mp4"
+        },
+        {
+            "username": "Meera ",
+            "avatarUrl": "https://stockomarket.com/apps/live-streaming/ad-img/1.jpg",
+            "previewUrlThumbSmall": "https://stockomarket.com/apps/live-streaming/images/stream-image (115).png",
+            "previewUrlThumbBig": "https://stockomarket.com/apps/live-streaming/images/stream-image (115).png",
+            "isLive": true,
+            "viewersCount": 264,
+            "groupShowType": "",
+            "hlsPlaylist": "https://stockomarket.com/apps/live-streaming/videos/stream-video (115).mp4"
+        },
+        {
+            "username": "Jivika",
+            "avatarUrl": "https://stockomarket.com/apps/live-streaming/ad-img/1.jpg",
+            "previewUrlThumbSmall": "https://stockomarket.com/apps/live-streaming/images/stream-image (108).png",
+            "previewUrlThumbBig": "https://stockomarket.com/apps/live-streaming/images/stream-image (108).png",
+            "isLive": true,
+            "viewersCount": 700,
+            "groupShowType": "",
+            "hlsPlaylist": "https://stockomarket.com/apps/live-streaming/videos/stream-video (108).mp4"
+        },
+        {
+            "username": "Saumya",
+            "avatarUrl": "https://stockomarket.com/apps/live-streaming/ad-img/1.jpg",
+            "previewUrlThumbSmall": "https://stockomarket.com/apps/live-streaming/images/stream-image (91).png",
+            "previewUrlThumbBig": "https://stockomarket.com/apps/live-streaming/images/stream-image (91).png",
+            "isLive": true,
+            "viewersCount": 874,
+            "groupShowType": "",
+            "hlsPlaylist": "https://stockomarket.com/apps/live-streaming/videos/stream-video (91).mp4"
+        },
+        {
+            "username": "Jasmine",
+            "avatarUrl": "https://stockomarket.com/apps/live-streaming/ad-img/1.jpg",
+            "previewUrlThumbSmall": "https://stockomarket.com/apps/live-streaming/images/stream-image (80).png",
+            "previewUrlThumbBig": "https://stockomarket.com/apps/live-streaming/images/stream-image (80).png",
+            "isLive": true,
+            "viewersCount": 976,
+            "groupShowType": "",
+            "hlsPlaylist": "https://stockomarket.com/apps/live-streaming/videos/stream-video (80).mp4"
+        },
+        {
+            "username": "Veena ",
+            "avatarUrl": "https://stockomarket.com/apps/live-streaming/ad-img/1.jpg",
+            "previewUrlThumbSmall": "https://stockomarket.com/apps/live-streaming/images/stream-image (105).png",
+            "previewUrlThumbBig": "https://stockomarket.com/apps/live-streaming/images/stream-image (105).png",
+            "isLive": true,
+            "viewersCount": 272,
+            "groupShowType": "",
+            "hlsPlaylist": "https://stockomarket.com/apps/live-streaming/videos/stream-video (105).mp4"
+        },
+        {
+            "username": "Lavanya",
+            "avatarUrl": "https://stockomarket.com/apps/live-streaming/ad-img/1.jpg",
+            "previewUrlThumbSmall": "https://stockomarket.com/apps/live-streaming/images/stream-image (114).png",
+            "previewUrlThumbBig": "https://stockomarket.com/apps/live-streaming/images/stream-image (114).png",
+            "isLive": true,
+            "viewersCount": 441,
+            "groupShowType": "",
+            "hlsPlaylist": "https://stockomarket.com/apps/live-streaming/videos/stream-video (114).mp4"
+        },
+        {
+            "username": "Ziya",
+            "avatarUrl": "https://stockomarket.com/apps/live-streaming/ad-img/1.jpg",
+            "previewUrlThumbSmall": "https://stockomarket.com/apps/live-streaming/images/stream-image (99).png",
+            "previewUrlThumbBig": "https://stockomarket.com/apps/live-streaming/images/stream-image (99).png",
+            "isLive": true,
+            "viewersCount": 99,
+            "groupShowType": "",
+            "hlsPlaylist": "https://stockomarket.com/apps/live-streaming/videos/stream-video (99).mp4"
+        },
+        {
+            "username": "Khushi",
+            "avatarUrl": "https://stockomarket.com/apps/live-streaming/ad-img/1.jpg",
+            "previewUrlThumbSmall": "https://stockomarket.com/apps/live-streaming/images/stream-image (104).png",
+            "previewUrlThumbBig": "https://stockomarket.com/apps/live-streaming/images/stream-image (104).png",
+            "isLive": true,
+            "viewersCount": 371,
+            "groupShowType": "",
+            "hlsPlaylist": "https://stockomarket.com/apps/live-streaming/videos/stream-video (104).mp4"
+        },
+        {
+            "username": "Lakshmi",
+            "avatarUrl": "https://stockomarket.com/apps/live-streaming/ad-img/1.jpg",
+            "previewUrlThumbSmall": "https://stockomarket.com/apps/live-streaming/images/stream-image (109).png",
+            "previewUrlThumbBig": "https://stockomarket.com/apps/live-streaming/images/stream-image (109).png",
+            "isLive": true,
+            "viewersCount": 742,
+            "groupShowType": "",
+            "hlsPlaylist": "https://stockomarket.com/apps/live-streaming/videos/stream-video (109).mp4"
+        },
+        {
+            "username": "Aarya ",
+            "avatarUrl": "https://stockomarket.com/apps/live-streaming/ad-img/1.jpg",
+            "previewUrlThumbSmall": "https://stockomarket.com/apps/live-streaming/images/stream-image (74).png",
+            "previewUrlThumbBig": "https://stockomarket.com/apps/live-streaming/images/stream-image (74).png",
+            "isLive": true,
+            "viewersCount": 430,
+            "groupShowType": "",
+            "hlsPlaylist": "https://stockomarket.com/apps/live-streaming/videos/stream-video (74).mp4"
+        },
+        {
+            "username": "Imara ",
+            "avatarUrl": "https://stockomarket.com/apps/live-streaming/ad-img/1.jpg",
+            "previewUrlThumbSmall": "https://stockomarket.com/apps/live-streaming/images/stream-image (94).png",
+            "previewUrlThumbBig": "https://stockomarket.com/apps/live-streaming/images/stream-image (94).png",
+            "isLive": true,
+            "viewersCount": 504,
+            "groupShowType": "",
+            "hlsPlaylist": "https://stockomarket.com/apps/live-streaming/videos/stream-video (94).mp4"
+        },
+        {
+            "username": "Sana",
+            "avatarUrl": "https://stockomarket.com/apps/live-streaming/ad-img/1.jpg",
+            "previewUrlThumbSmall": "https://stockomarket.com/apps/live-streaming/images/stream-image (84).png",
+            "previewUrlThumbBig": "https://stockomarket.com/apps/live-streaming/images/stream-image (84).png",
+            "isLive": true,
+            "viewersCount": 531,
+            "groupShowType": "",
+            "hlsPlaylist": "https://stockomarket.com/apps/live-streaming/videos/stream-video (84).mp4"
+        },
+        {
+            "username": "Mahi",
+            "avatarUrl": "https://stockomarket.com/apps/live-streaming/ad-img/1.jpg",
+            "previewUrlThumbSmall": "https://stockomarket.com/apps/live-streaming/images/stream-image (103).png",
+            "previewUrlThumbBig": "https://stockomarket.com/apps/live-streaming/images/stream-image (103).png",
+            "isLive": true,
+            "viewersCount": 278,
+            "groupShowType": "",
+            "hlsPlaylist": "https://stockomarket.com/apps/live-streaming/videos/stream-video (103).mp4"
+        },
+        {
+            "username": "Lakshmi",
+            "avatarUrl": "https://stockomarket.com/apps/live-streaming/ad-img/1.jpg",
+            "previewUrlThumbSmall": "https://stockomarket.com/apps/live-streaming/images/stream-image (111).png",
+            "previewUrlThumbBig": "https://stockomarket.com/apps/live-streaming/images/stream-image (111).png",
+            "isLive": true,
+            "viewersCount": 227,
+            "groupShowType": "",
+            "hlsPlaylist": "https://stockomarket.com/apps/live-streaming/videos/stream-video (111).mp4"
+        },
+        {
+            "username": "Devina",
+            "avatarUrl": "https://stockomarket.com/apps/live-streaming/ad-img/1.jpg",
+            "previewUrlThumbSmall": "https://stockomarket.com/apps/live-streaming/images/stream-image (75).png",
+            "previewUrlThumbBig": "https://stockomarket.com/apps/live-streaming/images/stream-image (75).png",
+            "isLive": true,
+            "viewersCount": 367,
+            "groupShowType": "",
+            "hlsPlaylist": "https://stockomarket.com/apps/live-streaming/videos/stream-video (75).mp4"
+        },
+        {
+            "username": "Zoha",
+            "avatarUrl": "https://stockomarket.com/apps/live-streaming/ad-img/1.jpg",
+            "previewUrlThumbSmall": "https://stockomarket.com/apps/live-streaming/images/stream-image (95).png",
+            "previewUrlThumbBig": "https://stockomarket.com/apps/live-streaming/images/stream-image (95).png",
+            "isLive": true,
+            "viewersCount": 386,
+            "groupShowType": "",
+            "hlsPlaylist": "https://stockomarket.com/apps/live-streaming/videos/stream-video (95).mp4"
+        },
+        {
+            "username": "Shaurya",
+            "avatarUrl": "https://stockomarket.com/apps/live-streaming/ad-img/1.jpg",
+            "previewUrlThumbSmall": "https://stockomarket.com/apps/live-streaming/images/stream-image (107).png",
+            "previewUrlThumbBig": "https://stockomarket.com/apps/live-streaming/images/stream-image (107).png",
+            "isLive": true,
+            "viewersCount": 364,
+            "groupShowType": "",
+            "hlsPlaylist": "https://stockomarket.com/apps/live-streaming/videos/stream-video (107).mp4"
+        },
+        {
+            "username": "Shyla ",
+            "avatarUrl": "https://stockomarket.com/apps/live-streaming/ad-img/1.jpg",
+            "previewUrlThumbSmall": "https://stockomarket.com/apps/live-streaming/images/stream-image (97).png",
+            "previewUrlThumbBig": "https://stockomarket.com/apps/live-streaming/images/stream-image (97).png",
+            "isLive": true,
+            "viewersCount": 931,
+            "groupShowType": "",
+            "hlsPlaylist": "https://stockomarket.com/apps/live-streaming/videos/stream-video (97).mp4"
+        },
+        {
+            "username": "Sajani",
+            "avatarUrl": "https://stockomarket.com/apps/live-streaming/ad-img/1.jpg",
+            "previewUrlThumbSmall": "https://stockomarket.com/apps/live-streaming/images/stream-image (93).png",
+            "previewUrlThumbBig": "https://stockomarket.com/apps/live-streaming/images/stream-image (93).png",
+            "isLive": true,
+            "viewersCount": 3,
+            "groupShowType": "",
+            "hlsPlaylist": "https://stockomarket.com/apps/live-streaming/videos/stream-video (93).mp4"
+        },
+        {
+            "username": "Kimaya",
+            "avatarUrl": "https://stockomarket.com/apps/live-streaming/ad-img/1.jpg",
+            "previewUrlThumbSmall": "https://stockomarket.com/apps/live-streaming/images/stream-image (76).png",
+            "previewUrlThumbBig": "https://stockomarket.com/apps/live-streaming/images/stream-image (76).png",
+            "isLive": true,
+            "viewersCount": 253,
+            "groupShowType": "",
+            "hlsPlaylist": "https://stockomarket.com/apps/live-streaming/videos/stream-video (76).mp4"
+        }
+    ],
+    "totalCount": 20
+}
