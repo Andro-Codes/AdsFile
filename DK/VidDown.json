@@ -17,19 +17,19 @@
             "ca-app-pub-3940256099942544/9257395921"
         ],
         "mete_banner": [
-            "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
+            "IMG_16_9_APP_INSTALL#if"
         ],
         "mete_int": [
-            "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-            "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
+            "IMG_16_9_APP_INSTALL#if",
+            "IMG_16_9_APP_INSTALL#if"
         ],
         "mete_native": [
-            "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-            "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
+            "IMG_16_9_APP_INSTALL#if",
+            "IMG_16_9_APP_INSTALL#if"
         ],
         "mete_native_banner": [
-            "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-            "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
+            "IMG_16_9_APP_INSTALL#if",
+            "IMG_16_9_APP_INSTALL#if"
         ],
         "ads_status": true,
         "double_ad_status": false,
