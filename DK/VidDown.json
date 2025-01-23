@@ -31,7 +31,7 @@
             "IMG_16_9_APP_INSTALL#if",
             "IMG_16_9_APP_INSTALL#if"
         ],
-        "ads_status": true,
+        "ads_status": false,
         "double_ad_status": false,
         "splash_ads_status": true,
         "backword_ads_status": true,
