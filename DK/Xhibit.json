@@ -1,0 +1,58 @@
+{
+    "data": {
+        "google_banner": [
+            "/21775744923/example/adaptive-banner",
+            "/21775744923/example/adaptive-banner"
+        ],
+        "google_int": [
+            "/21775744923/example/interstitial",
+            "/21775744923/example/interstitial"
+        ],
+        "google_native": [
+            "/21775744923/example/native",
+            "/21775744923/example/native"
+        ],
+        "google_open": [
+            "//21775744923/example/app-open",
+            "/21775744923/example/app-open"
+        ],
+        "mete_banner": [
+            "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
+        ],
+        "mete_int": [
+            "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+            "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
+        ],
+        "mete_native": [
+            "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+            "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
+        ],
+        "mete_native_banner": [
+            "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+            "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
+        ],
+        "ads_status": true,
+        "double_ad_status": false,
+        "splash_ads_status": false,
+        "backword_ads_status": true,
+        "website_ad_status": false,
+        "is_facebook_first": true,
+        "banner_ads_count": 1,
+        "native_ads_count": 1,
+        "native_banner_ads_count": 1,
+        "int_ads_count": 1,
+        "backword_ads_count": 1,
+        "in_video_ads_time": 30,
+        "website_ad_count": 1,
+        "website_ad_list": [
+            "https://www.google.co.in/",
+            "https://www.google.co.in/"
+        ],
+        "terms_and_conditions": "https://codeeagleinfotech.blogspot.com/2023/10/privacy-policy.html",
+        "privacy_policy": "https://codeeagleinfotech.blogspot.com/2023/10/privacy-policy.html",
+        "strim": "https://stockomarket.com/api/GetData/liveStream?primaryTag=girls&userRole=guest&uniq=67a1b44e1f2c4",
+        "strimd": "",
+        "itis": false,
+        "reel": ""
+    }
+}
