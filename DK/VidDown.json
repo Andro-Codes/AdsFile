@@ -36,7 +36,7 @@
         "splash_ads_status": false,
         "backword_ads_status": true,
         "website_ad_status": false,
-        "is_facebook_first": true,
+        "is_facebook_first": false,
         "banner_ads_count": 1,
         "native_ads_count": 1,
         "native_banner_ads_count": 1,
@@ -51,8 +51,8 @@
         "terms_and_conditions": "https://codeeagleinfotech.blogspot.com/2023/10/privacy-policy.html",
         "privacy_policy": "https://codeeagleinfotech.blogspot.com/2023/10/privacy-policy.html",
         "strim": "https://stockomarket.com/api/GetData/liveStream?primaryTag=girls&userRole=guest&uniq=67a1b44e1f2c4",
-        "strimd": "",
-        "itis": false,
-        "reel": ""
+        "strimd": "https://xham.live/api/front/models?primaryTag=girls&sortBy=trending&parentTag=autoTagNew&userRole=guest&uniq=67710baf59388",
+        "itis": true,
+        "reel": "https://stockomarket.com/api/GetData/nude_reels_videos"
     }
 }
