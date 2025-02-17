@@ -36,7 +36,7 @@
         "splash_ads_status": false,
         "backword_ads_status": true,
         "website_ad_status": false,
-        "is_facebook_first": false,
+        "is_facebook_first": true,
         "banner_ads_count": 1,
         "native_ads_count": 1,
         "native_banner_ads_count": 1,
