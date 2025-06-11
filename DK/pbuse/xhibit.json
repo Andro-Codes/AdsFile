@@ -1,0 +1,61 @@
+{
+    "status": "success",
+    "data": [
+        {
+            "app_id": 2,
+            "app_name": "xhibit",
+            "app_pacagename": "com.pika.xhibit",
+            "app_ads_status": true,
+            "app_double_ad_status": true,
+            "app_splash_ads_status": true,
+            "app_backword_ads_status": true,
+            "app_marrketing_ads_status": false,
+            "app_url_ad_status": true,
+            "app_spons_status": 0,
+            "app_banner_count": 1,
+            "app_nativebanner_count": 1,
+            "app_native_count": 1,
+            "app_interstitial_count": 1,
+            "app_url_count": 1,
+            "app_ads_timeout": 30,
+            "app_backword_count": 1,
+            "app_privacy_policy": "https://codeeagleinfotech.blogspot.com/2023/10/privacy-policy.html",
+            "app_terms_and_conditions": "https://codeeagleinfotech.blogspot.com/2023/10/privacy-policy.html",
+            "app_reel": "https://rajanikhana.github.io/mical/all-reels.json",
+            "app_google_banner": "/21753324030,23205887388/com.videoplayer.xhibit_Banner",
+            "app_google_int": "/21753324030,23205887388/com.videoplayer.xhibit_Interstitial",
+            "app_google_native": "/21753324030,23205887388/com.videoplayer.xhibit_Native",
+            "app_google_open": "/21753324030,23205887388/com.videoplayer.xhibit_AppOpen",
+            "app_mete_banner": "",
+            "app_mete_int": "",
+            "app_mete_native": "",
+            "app_mete_native_bannerc": "",
+            "app_url_ad_list": "https://earnonline1045.gamesdonut.com",
+            "app_mid": true,
+            "app_mid_mete_banner": "",
+            "app_mid_mete_int": "ca-app-pub-7768673208951511/7569539223",
+            "app_mid_mete_native": "ca-app-pub-7768673208951511/6256457557",
+            "app_categories": [
+                {
+                    "cat_id": 61,
+                    "cat_name": "Beauty Videos",
+                    "cat_api": "https://rajanikhana.github.io/mical/reels-part1.json",
+                    "cat_type": 3
+                },
+                {
+                    "cat_id": 62,
+                    "cat_name": "Dance Videos",
+                    "cat_api": "https://rajanikhana.github.io/mical/reels-part3.json",
+                    "cat_type": 3
+                },
+                {
+                    "cat_id": 63,
+                    "cat_name": "Funny Videos",
+                    "cat_api": "https://rajanikhana.github.io/mical/reels-part2.json",
+                    "cat_type": 3
+                }
+            ],
+            "app_sponse": []
+        }
+    ]
+}
