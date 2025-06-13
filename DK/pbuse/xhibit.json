@@ -9,7 +9,7 @@
             "app_double_ad_status": true,
             "app_splash_ads_status": true,
             "app_backword_ads_status": true,
-            "app_marrketing_ads_status": true,
+            "app_marrketing_ads_status": false,
             "app_url_ad_status": true,
             "app_spons_status": 0,
             "app_banner_count": 1,
